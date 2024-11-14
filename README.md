@@ -1,4 +1,4 @@
-<h1>IoT Network-</h1>
+<h1>IoT Network</h1>
 <h2>Raspberry Pi and Teensy-Based Automated Irrigation System with MQTT and Bluetooth</h2>
 
  ### [YouTube Demonstration](https://youtu.be/NgmdnWOPheM)
