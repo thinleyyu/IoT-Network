@@ -33,34 +33,34 @@ Purpose: Serves as the main control system, handling data from the Teensy over B
 Purpose: Collects sensor data (water level, temperature, and humidity) and manages servo motors and LEDs. Communicates with Raspberry Pi over Bluetooth </b> 
 - <b> Local Development (MacBook): macOS Ventura (13.0)
 Purpose: Used for project setup, configuring remote connections, transferring files, and debugging. </b> 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+ <br/>
 <img src="https://i.imgur.com/wqg08dP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+  <br/>
 <img src="https://i.imgur.com/CudJN09.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+ <br/>
 <img src="https://i.imgur.com/ahafUdJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+  <br/>
 <img src="https://i.imgur.com/Z0Q7KBj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+  <br/>
 <img src="https://i.imgur.com/1sPYNyw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+  <br/>
 <img src="https://i.imgur.com/CAiJxM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+  <br/>
 <img src="https://i.imgur.com/ELsf2gu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
